@@ -239,6 +239,10 @@ Tabellarische Struktur:
 - **Pro Einschätzung ein Datensatz**
 - Headerinformationen siehe: `IID-SID-ITEM.csv`
 
+## Datei: `epaAC-Data-5.csv`
+
+- **Pro Einschätzung ein Datensatz**
+- Headerinformationen verschlüsselt
 
 # Datei: `synthetic_cases_icd10_ops.csv`
 
